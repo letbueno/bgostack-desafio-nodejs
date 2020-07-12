@@ -27,7 +27,7 @@ yarn
 
 - Para executar a aplicação:
 ```
-yarn start
+yarn dev
 ```
 
 ### Como testar as requisições 	:technologist:
